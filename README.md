@@ -111,6 +111,30 @@ A reusable pipeline was created to:
 - Allow user-driven exploration
 
 ---
+## Key Visualizations
+
+### Retention Rate by Department
+<img width="850" height="701" alt="image" src="https://github.com/user-attachments/assets/e7aa7f62-981c-4843-8364-658ffc60f6fc" />
+
+
+
+This chart shows that Marketing and Finance have higher retention rates, while IT has the lowest.
+
+---
+
+### Retention Rate by Major
+<img width="842" height="701" alt="image" src="https://github.com/user-attachments/assets/3d718ce8-553e-4311-b56e-7cd29b74ead4" />
+
+
+Engineering and IT majors show stronger retention compared to Marketing.
+
+---
+
+### Age Distribution by Retention
+<img width="855" height="701" alt="image" src="https://github.com/user-attachments/assets/55fb460c-0223-4c25-aa25-acb476439213" />
+
+
+Age distributions are very similar between retained and non-retained interns, suggesting age is not a strong factor.
 
 ## Key Insights
 
