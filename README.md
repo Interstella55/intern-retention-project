@@ -45,18 +45,7 @@ The dataset contains information about interns, including:
 ---
 
 ## Project Structure
-intern-retention-project/
-│
-├── notebooks/
-│ ├── 01_data_preparation_and_eda.ipynb
-│ └── 02_machine_learning_modeling.ipynb
-│
-├── scripts/
-│ └── eda_pipeline.ipynb
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+<img width="294" height="259" alt="image" src="https://github.com/user-attachments/assets/d146bb2c-06bd-40ee-8c56-97f1486070f7" />
 
 ---
 
